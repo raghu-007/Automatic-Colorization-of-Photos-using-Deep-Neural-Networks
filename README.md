@@ -1,1 +1,9 @@
 # Automatic-Colorization-of-Photos-using-Deep-Neural-Networks
+
+When it comes to coloring black and white images, machines have never been able to do an adequate job. They can’t understand the boundary between grey and white, leading to a range of monochromatic hues that seem unrealistic. To overcome this issue, scientists from UC Berkeley, along with colleagues at Microsoft Research, developed a new algorithm that automatically colorizes photographs by using deep neural networks.
+
+Deep neural networks are a very promising technique for image classification because they can learn the composition of an image by looking at many pictures. Densely connected convolutional neural networks (CNN) have been used to classify images in this study. CNN’s are trained with large amounts of labeled data, and output a score corresponding to the associated class label for any input image. They can be thought of as feature detectors that are applied to the original input image.
+
+Colourization is the process of adding color to a black and white photo. It can be accomplished by hand, but it’s a tedious process that takes hours or days, depending on the level of detail in the photo. Recently, there’s been an explosion in deep neural networks for image recognition tasks such as facial recognition and text detection. In simple terms, it’s the process of adding colors to grayscale images or videos. However, with the rapid advance of deep learning in recent years, a Convolutional Neural Network (CNN) can colorize black and white images by predicting what the colors should be on a per-pixel basis. This project helps to colorize old photos. As you can see in the image below, it can even properly predict the color of coca-cola, because of the large number of datasets.
+
+Ref: https://towardsdatascience.com/colorizing-images-with-a-convolutional-neural-network-3692d71956e2
